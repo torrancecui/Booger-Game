@@ -1,5 +1,5 @@
 # Booger-Game
-Booger Game developed by Torrance Cui 2020
+Booger Game developed by Torrance Cui 2020 using Xcode
 
 This is a simple game based on a childhood game I would play under pine trees with my brother while waiting for our mom to pick us up from school. 
 Currently in development using Xcode/Swift. 
