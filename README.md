@@ -1,4 +1,5 @@
 # Booger-Game
-Booger Game
 
-development branch
+Booger Game developed by Torrance Cui 2020 using Xcode
+
+A simple paddle-pong game
